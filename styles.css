@@ -1,0 +1,57 @@
+#container{
+	padding: 20px;
+	margin-left:52px;
+}
+
+#form{
+	text-align: left;
+	font-size: 20px;
+	background-color: grey;
+	opacity:.09;
+	color: black;
+	width:75%;
+	border-radius:50px;
+	
+}
+
+p{
+	color:#black;
+}
+
+body{
+	background-color: fixed;
+	margin-left: 20%;
+	background-image:url(https://img.freepik.com/premium-photo/cricket-reaction-ball-batsman-playing-reaction-shots_1247965-30593.jpg?w=740);
+	
+	/*(https://img.freepik.com/premium-photo/cricket-reaction-ball-players-reacting-bounces_1247965-30170.jpg?size=626&ext=jpg&ga=GA1.2.35870530.1724808465&semt=ais_hybrid);*/
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+#form-outer{
+	background:cover;
+}
+
+#title{
+	color:red;
+	text-align: center;
+}
+#description{
+	text-align:center;
+}
+
+.rowTab{
+	margin-top:20px;
+}
+.checkbox{
+	margin-right: 40px;
+}
+#message{
+	padding: 10px;
+}
+#submit{
+	margin-bottom: 20px;
+	margin-left:50%;
+	background-color:red;
+	font-size: 20px;
+}
